@@ -1,4 +1,13 @@
 AutogluonModels
 venv
-*.pkl
 node_modules
+data/data_different_gamma_naive.pkl
+data/data_different_gamma.pkl
+data/regression_test_df.pkl
+data/regression_train_df.pkl
+data/reports_different_theta.pkl
+data/test_volatility.pkl
+data/test.pkl
+data/train_test_dis.pkl
+data/train_volatility.pkl
+data/train.pkl
