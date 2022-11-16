@@ -1,3 +1,4 @@
 AutogluonModels
 venv
 *.pkl
+node_modules
